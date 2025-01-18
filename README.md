@@ -21,8 +21,8 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a Youtube walkthrough of implemented features:
-https://youtu.be/dQRsP8maj5s
+Here's a walkthrough of implemented features:
+[(https://imgur.com/eHkwjUu)](https://imgur.com/eHkwjUu)
 
 <!-- Replace this with whatever GIF tool you used! -->
 Video created with OBS
