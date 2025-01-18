@@ -21,6 +21,14 @@ body {
 
 .stats-container {
     display: flex;
+    align-items: flex-start;
+    border: 1px solid rgba(144, 144, 181, 0.5); 
+    border-radius: 25px;
+}
+
+.stats-container:hover {
+    cursor: pointer;
+    box-shadow: 0 0 30px lightblue;
 }
 
 .stats-card {
@@ -31,6 +39,8 @@ body {
     width: 100%;
     text-align: center;
 }
+
+
 
 #num-contributions, #total-raised, #num-games {
     font-size: 50px;
@@ -55,10 +65,12 @@ body {
     width: 300px;
     text-align: center;
     border-radius: 7px;
+    transition: 0.3s; 
 }
 
 .game-card:hover {
     cursor: pointer;
+    transform: scale(1.05); /* Added slight scale when hovered */
     box-shadow: 0 0 30px lightblue;
 }
 
@@ -73,3 +85,4 @@ button {
     margin: 1%;
     border-radius: 7px;
 }
+
