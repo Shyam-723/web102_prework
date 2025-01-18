@@ -22,8 +22,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-
-https://youtu.be/dQRsP8maj5s?feature=shared
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dQRsP8maj5s?si=_5ohIG42jhVyiiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <!-- Replace this with whatever GIF tool you used! -->
 Video created with OBS
